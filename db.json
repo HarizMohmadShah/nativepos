@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "code": "LS-0435",
+      "name": "T-Shirt Levis",
+      "description": "M Navy Blue",
+      "ean": "8712079350900",
+      "tax": "SR",
+      "price": "30"
+    },
+    {
+      "code": "LS-0436",
+      "name": "T-Shirt Levis",
+      "description": "M Navy Yellow",
+      "ean": "8712079350910",
+      "tax": "SR",
+      "price": "30"
+    },
+    {
+      "code": "LS-0436",
+      "name": "T-Shirt Levis",
+      "description": "M Navy Green",
+      "ean": "8712079350919",
+      "tax": "SR",
+      "price": "30"
+    }
+  ]
+}
